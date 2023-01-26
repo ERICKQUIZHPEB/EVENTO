@@ -1,0 +1,8 @@
+{
+  "id":1,
+  "description":"Fiesta",
+  "startDate":"2023-01-24",
+  "endDate": "2023-01-24",
+  "totalAttendees":23,
+  "city":"Cuenca"
+}
